@@ -1,6 +1,5 @@
 # 💫 About Me:
-# 💻 Anand R Arkasali<br><br>Hi there! 👋 I'm Anand <br><br>---<br><br>### 🚀 Tech Stack<br>- 🔧 Languages: JavaScript, TypeScript, Python, SQL<br>- 🌐 Backend: Node.js, NestJS, Express, FastAPI<br>- 🛠️ Database: MongoDB, PostgreSQL, MySQL<br>- 🧠 Tools: GitHub, Docker, Postman, Firebase, AWS<br>- 🌍 Other Interests: Full-Stack Projects | Cybersecurity | DevOps | Cloud Engineering<br><br>---<br><br>### 📌 Current Focus<br>- 💡 Working on **AI-integrated projects** & full-stack apps<br>- 🔐 Building a secure **Intrusion Detection System**<br>- 🌱 Learning more about **Cloud Security** & **CI/CD Pipelines**<br><br>---<br><br>### 📫 Let's Connect!<br>- 💼 [LinkedIn](https://www.linkedin.com/in/anandrarkasali)<br>- 📬 anandrarkasali@gmail.com<br><br>---<br><br>### ⚡ Fun Fact<br>I believe in writing code that's not only functional but also elegant. My goal is to make an impact — one line of code at a time.<br><br>
-
+# 💻 Anand R Arkasali<br><br>Hi there! 👋 I'm Anand <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anandrarkasali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anandrarkasali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandrarkasali@gmail.com) 
