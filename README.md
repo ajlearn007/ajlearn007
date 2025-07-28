@@ -1,4 +1,4 @@
-## I'm Anand Arkasali — a software developer passionate about building full-stack applications and automating workflows with Python and modern web tech.
+## I'm Anand R Arkasali — a software developer passionate about building full-stack applications and automating workflows with Python and modern web tech.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anandrarkasali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandrarkasali@gmail.com) 
