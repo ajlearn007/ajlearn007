@@ -53,25 +53,9 @@ I enjoy turning ideas into <b>working systems</b> — not just demos — with at
 
 ### ☁️ DevOps & Tools
 <p>
-<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
-</p>
-
----
-
-## 📊 GitHub at a Glance
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ajlearn007&show_icons=true&theme=shadow_blue&hide_border=false"/>
-</p>
-
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=ajlearn007&theme=shadow_blue&hide_border=false"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajlearn007&layout=compact&theme=shadow_blue"/>
 </p>
 
 ---
@@ -82,7 +66,3 @@ I enjoy turning ideas into <b>working systems</b> — not just demos — with at
 </p>
 
 ---
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=ajlearn007&icon=0&color=0"/>
-</p>
